@@ -1,6 +1,8 @@
 # output
 /dist/
 
+# npm stuff
+/node_modules
 
 # secerts
 *.env
